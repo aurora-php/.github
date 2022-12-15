@@ -1,2 +1,2 @@
-Dies ist mein Archiv von PHP bezogenen Projekten. Ich behalte sie hier, obwohl ich aufgehört habe, in PHP zu entwickeln. (C# rocks!)
+This is my archive of PHP related projects. I keep them here even though I stopped developing in PHP. (C# rocks!)
 
